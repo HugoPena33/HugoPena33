@@ -9,6 +9,8 @@
 ## Entre em contato comigo
 
 00001094639631sp@al.educacao.sp.gov.br
+
+![](https://media.giphy.com/media/5UqWIbfRyfTjaRulMO/giphy.gif)
 <!--
 **HugoPena33/HugoPena33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
