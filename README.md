@@ -2,9 +2,9 @@
 
 -Estou estudando na Alura como utilizar o github de forma semi-profissional :))
 
--Estou me empenhando no curso de Desenvolvimento de Sistemas na etec.
+-Estou me empenhando no curso de Desenvolvimento de Sistemas na ETESP.
 
--Vou utilizar essa espaço para criação de exercícios.
+-Vou utilizar esse espaço para criação de exercícios.
 
 ## Entre em contato comigo
 
